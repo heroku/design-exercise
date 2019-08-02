@@ -1,12 +1,12 @@
-# Design Exercise
+# Heroku Design Exercise
 
 ### Overview
 
-The design challenge is part of the Design Team interview process at Heroku. The intent of the challenge is to test creative thinking, product decision making, visual design talent and communication skills.  Candidates are encouraged to spend 3 hours on this task. Candidates can work in whatever medium they feel best demonstrates their skills. We use Sketch internally but welcome HTML prototypes, Google Slides, Figma etc.
+The design exercise is part of the Design Team interview process at Heroku. The intent of the exercise is to test creative thinking, product decision making, visual design talent and communication skills.  Candidates are encouraged to spend 3 hours on this task. Candidates can work in whatever medium they feel best demonstrates their skills. We use Sketch internally but welcome HTML prototypes, Google Slides, Figma etc.
 
 Below we have outlined a design brief for a hypothetical redesign of the [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler) product. The scenario proposed is that you are working as a designer at Heroku and are being briefed for a small project.
 
-**Outline of challenge**
+**Outline of exercise**
 
 * ~3 hour homework task
 * 45 minutes presentation / discussion
