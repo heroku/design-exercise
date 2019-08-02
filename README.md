@@ -35,6 +35,10 @@ The team is looking forward to discussing your concepts.
 
 ### Resources
 
+**Sketch template & fonts**
+
+Included in the `/resources` folder of this repo is a Sketch template with some basic elements picked from our design kit.
+
 **Screenshots of current Scheduler**
 
 ![](./assets/scheduler1.png)
