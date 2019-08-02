@@ -45,23 +45,23 @@ The team is looking forward to discussing your concepts.
 // GET /scheduled-jobs
 
 {
-    scheduledTasks: [
+    "scheduledTasks": [
         {
-            job: "rake db:pull_updates",
-            frequency: "Every 2 hours",
-            nextDueAt: "August 2, 2019 2:01 AM UTC",
-            isActive: false, // Users can make jobs inactive
-            previousJobs: [{
-                job: "rake db:pull_updates",
-                runAt: "August 2, 2019 1:01 AM UTC"
-                exitCode: 0, // Successful. 1 if unsuccessful
+            "job": "rake db:pull_updates",
+            "frequency": "Every 2 hours",
+            "nextDueAt": "August 2, 2019 2:01 AM UTC",
+            "isActive": false, // Users can make jobs inactive
+            "previousJobs": [{
+                "job": "rake db:pull_updates",
+                "runAt": "August 2, 2019 1:01 AM UTC",
+                "exitCode": 0, // Successful. 1 if unsuccessful
             },...]
         }
         ...
     ],
-    user: {
-        currentUser: "alasdair.monk@gmail.com"
-        userTimezone: "BST"
+    "user": {
+        "currentUser": "alasdair.monk@gmail.com",
+        "userTimezone": "BST"
     }
 }
 ```
