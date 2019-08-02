@@ -4,7 +4,7 @@
 
 The design challenge is part of the Design Team interview process at Heroku. The intent of the challenge is to test creative thinking, product decision making, visual design talent and communication skills.  Candidates are encouraged to spend 3 hours on this task. Candidates can work in whatever medium they feel best demonstrates their skills. We use Sketch internally but welcome HTML prototypes, Google Slides, Figma etc.
 
-Below we have outlined a design brief for a hypothetical redesign of the Heroku Scheduler (https://devcenter.heroku.com/articles/scheduler) product. The scenario proposed is that you are working as a designer at Heroku and are being briefed for a small project.
+Below we have outlined a design brief for a hypothetical redesign of the [Heroku Scheduler](https://devcenter.heroku.com/articles/scheduler) product. The scenario proposed is that you are working as a designer at Heroku and are being briefed for a small project.
 
 **Outline of challenge**
 
@@ -15,7 +15,7 @@ Below we have outlined a design brief for a hypothetical redesign of the Heroku 
 
 ### The brief
 
-Heroku Scheduler is a product that allows developers to execute jobs to a schedule; for example, I might want to run a database task (rake db:pull_latest) every 2 hours. Heroku Scheduler can be thought of as a more user friendly interface to [cron]([cron - Wikipedia](https://en.wikipedia.org/wiki/Cron)).
+Heroku Scheduler is a product that allows developers to execute jobs to a schedule; for example, I might want to run a database task (rake db:pull_latest) every 2 hours. Heroku Scheduler can be thought of as a more user friendly interface to [cron](https://en.wikipedia.org/wiki/Cron)).
 
 The current release of the Scheduler UI displays jobs in a tabular layout. Through discussions with customers, the product manager for Scheduler has suggested that a designer explore a new concept for the user interface that better communicates the temporal nature of the scheduled jobs. The product manager has suggested the following issues with the current design:
 
