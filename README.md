@@ -1,4 +1,4 @@
-# Design Challenge
+# Design Exercise
 
 ### Overview
 
