@@ -15,7 +15,7 @@ Below we have outlined a design brief for a hypothetical redesign of the [Heroku
 
 ### The brief
 
-Heroku Scheduler is a product that allows developers to execute jobs to a schedule; for example, I might want to run a database task (rake db:pull_latest) every 2 hours. Heroku Scheduler can be thought of as a more user friendly interface to [cron](https://en.wikipedia.org/wiki/Cron)).
+Heroku Scheduler is a product that allows developers to execute jobs to a schedule; for example, I might want to run a database task (e.g. `rake db:pull_latest`) every 2 hours. Heroku Scheduler can be thought of as a more user friendly interface to [cron](https://en.wikipedia.org/wiki/Cron).
 
 The current release of the Scheduler UI displays jobs in a tabular layout. Through discussions with customers, the product manager for Scheduler has suggested that a designer explore a new concept for the user interface that better communicates the temporal nature of the scheduled jobs. The product manager has suggested the following issues with the current design:
 
